@@ -1,0 +1,32 @@
+[
+        {
+            "name": "Ragnarock",
+            "brand": "A&L",
+            "pourcent": 5,
+            "link": "https://www.taklope.com/a-l/10766-concentre-ragnarok-sweet-edition.html?"
+        },
+        {
+            "name": "Heisenberg",
+            "brand": "Vampire Vape",
+            "pourcent": 15,
+            "link": "https://www.taklope.com/vampire-vape/1399-arome-heisenberg-vv.html"
+        },
+        {
+            "name": "Pastèque Melon",
+            "brand": "Punk Funk Hero",
+            "pourcent": 8,
+            "link": "https://www.taklope.com/punk-funk-hero/15693-concentre-pasteque-melon-30ml.html"
+        },
+        {
+            "name": "Pinkman",
+            "brand": "Vampire Vape",
+            "pourcent": 15,
+            "link": "https://www.taklope.com/vampire-vape/1407-arome-pinkman-vv.html"
+        },
+        {
+            "name": "Bloody Summer",
+            "brand": "Fruizee",
+            "pourcent": 15,
+            "link": "https://www.taklope.com/eliquid-france/10943-concentre-bloody-summer-fruizee.html"
+        }
+    ]
